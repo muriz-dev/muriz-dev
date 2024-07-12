@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/muriz-dev/muriz-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muriz-dev/muriz-dev/main/snake.svg" alt="Snake animation" />
 
 ###
 
